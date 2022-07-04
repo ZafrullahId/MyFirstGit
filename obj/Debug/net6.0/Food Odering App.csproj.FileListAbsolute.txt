@@ -1,0 +1,15 @@
+C:\Users\Ibraheem\Desktop\Food Odering App\bin\Debug\net6.0\Food Odering App.exe
+C:\Users\Ibraheem\Desktop\Food Odering App\bin\Debug\net6.0\Food Odering App.deps.json
+C:\Users\Ibraheem\Desktop\Food Odering App\bin\Debug\net6.0\Food Odering App.runtimeconfig.json
+C:\Users\Ibraheem\Desktop\Food Odering App\bin\Debug\net6.0\Food Odering App.dll
+C:\Users\Ibraheem\Desktop\Food Odering App\bin\Debug\net6.0\Food Odering App.pdb
+C:\Users\Ibraheem\Desktop\Food Odering App\obj\Debug\net6.0\Food Odering App.csproj.AssemblyReference.cache
+C:\Users\Ibraheem\Desktop\Food Odering App\obj\Debug\net6.0\Food Odering App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibraheem\Desktop\Food Odering App\obj\Debug\net6.0\Food Odering App.AssemblyInfoInputs.cache
+C:\Users\Ibraheem\Desktop\Food Odering App\obj\Debug\net6.0\Food Odering App.AssemblyInfo.cs
+C:\Users\Ibraheem\Desktop\Food Odering App\obj\Debug\net6.0\Food Odering App.csproj.CoreCompileInputs.cache
+C:\Users\Ibraheem\Desktop\Food Odering App\obj\Debug\net6.0\Food Odering App.dll
+C:\Users\Ibraheem\Desktop\Food Odering App\obj\Debug\net6.0\refint\Food Odering App.dll
+C:\Users\Ibraheem\Desktop\Food Odering App\obj\Debug\net6.0\Food Odering App.pdb
+C:\Users\Ibraheem\Desktop\Food Odering App\obj\Debug\net6.0\Food Odering App.genruntimeconfig.cache
+C:\Users\Ibraheem\Desktop\Food Odering App\obj\Debug\net6.0\ref\Food Odering App.dll

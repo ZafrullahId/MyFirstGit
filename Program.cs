@@ -6,7 +6,7 @@ namespace FoodOderingApp.Enums
     {
         public  static void Main(string[] args)
         {
-           MainMenu.WelcomePage();
+        //    MainMenu.WelcomePage();
             
         }
     }
